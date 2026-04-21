@@ -11,6 +11,5 @@
 </p>
 
 <p align="center" style="margin: -20px 0 30px">
-   <a href="https://twitter.com/" target="_blank" style='margin-right:10px'>
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="twitter" height="22px" width="22px" />
   </a>
